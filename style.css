@@ -10,5 +10,6 @@
     /* font-weight: bolder; */
 }
 .img{
+    border: 10px solid blueviolet;
     border-radius: 10px;
 }
